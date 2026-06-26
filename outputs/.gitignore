@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local outputs and reports
+outputs/
+*.csv
+*.png
+*.md
+
+# Virtual Environment (Agar use kar rahe ho toh)
+venv/
+.env
